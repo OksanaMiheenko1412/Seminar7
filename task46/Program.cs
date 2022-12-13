@@ -19,3 +19,5 @@ Console.Write("Введите размеры матрицы: ");
 string[] numbers = Console.ReadLine().Split(" ");
 int[,] matrix = new int[int.Parse(numbers[0]), int.Parse(numbers[1])];
 InputMatrix(matrix);
+//   /t - табуляция используется для расположения в матрице элемента под элементом
+//   /n - переход на новую строчку без использования Console.WriteLine
