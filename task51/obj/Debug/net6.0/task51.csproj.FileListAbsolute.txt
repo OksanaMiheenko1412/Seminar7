@@ -1,0 +1,15 @@
+C:\Geekbrains\C#\Seminar7\task51\bin\Debug\net6.0\task51.exe
+C:\Geekbrains\C#\Seminar7\task51\bin\Debug\net6.0\task51.deps.json
+C:\Geekbrains\C#\Seminar7\task51\bin\Debug\net6.0\task51.runtimeconfig.json
+C:\Geekbrains\C#\Seminar7\task51\bin\Debug\net6.0\task51.dll
+C:\Geekbrains\C#\Seminar7\task51\bin\Debug\net6.0\task51.pdb
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\task51.csproj.AssemblyReference.cache
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\task51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\task51.AssemblyInfoInputs.cache
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\task51.AssemblyInfo.cs
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\task51.csproj.CoreCompileInputs.cache
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\task51.dll
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\refint\task51.dll
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\task51.pdb
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\task51.genruntimeconfig.cache
+C:\Geekbrains\C#\Seminar7\task51\obj\Debug\net6.0\ref\task51.dll
