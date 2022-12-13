@@ -7,7 +7,8 @@ void InputMatrix(int[,] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[i, j] = new Random().Next(1, 11); // [1, 10]
+            matrix[i, j] = new Random().Next(1, 11);//заполнение массива случайным
+            // образом от 1 до 10
             Console.Write($"{matrix[i, j]} \t");
         }
         Console.WriteLine();
@@ -32,9 +33,10 @@ void ReleaseMatrix(int[, ] matrix)
 
 Console.Clear();
 Console.Write("Введите размер матрицы: ");
-int[] coord = Console.ReadLine().Split(" ").Select(s => int.Parse(s)).ToArray();
-int[,] matrix = new int[coord[0], coord[1]];
-Console.WriteLine("Начальная матрица: ");
+string[] numbers  = Console.ReadLine().Split(" ");
+int[,] matrix = new int[int.Parse(numbers[0]), int.Parse(numbers[1])];
+Console.WriteLine("Двумерный массив: ");
 InputMatrix(matrix);
+Console.WriteLine();
 Console.WriteLine("Результат: ");
 ReleaseMatrix(matrix);
